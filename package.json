@@ -1,0 +1,20 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Examples from OReilly book",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glenleatherman/sandbox.git"
+  },
+  "author": "Glen Leatherman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glenleatherman/sandbox/issues"
+  },
+  "homepage": "https://github.com/glenleatherman/sandbox#readme"
+}
